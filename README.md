@@ -37,4 +37,4 @@ No installation is required.
 Basic syntax:
 
 ```bash
-cmdMultiPatch --apply patch_file input_file
+cmdMultiPatch --apply patch_file input_file output_file
